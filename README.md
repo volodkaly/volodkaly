@@ -1,6 +1,6 @@
 <div style="background-color: salmon; padding: 20px; color: white; font-size: 20px;">
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" width="140" height="60"/>
@@ -35,10 +35,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volodkaly&show_icons=true&locale=en&layout=compact" alt="volodkaly" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volodkaly&show_icons=true&locale=en&layout=compact" alt="volodkaly" width="400"/></p>
 
-
-### Let's collaborate!
 
 </div>
 
