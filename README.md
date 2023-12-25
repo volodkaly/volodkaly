@@ -35,6 +35,8 @@
   </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volodkaly&show_icons=true&locale=en&layout=compact" alt="volodkaly" /></p>
+
 
 ### Let's collaborate!
 
