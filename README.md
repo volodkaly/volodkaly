@@ -8,14 +8,14 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="160" height="60"/>
   </a>
-   
+   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" width="160" height="60"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="160" height="60"/>
   </a>
-   
+   <br>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" width="160" height="60"/>
   </a>
@@ -30,7 +30,7 @@
   <a href="https://api.jquery.com/jquery.ajax/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-AJAX-blue?style=for-the-badge" alt="AJAX" width="160" height="60"/>
   </a>
-   
+   <br>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="160" height="60"/>
   </a>
