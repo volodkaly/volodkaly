@@ -5,6 +5,9 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" width="160" height="60"/>
   </a>
+  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
+  <img width="160" height="60" alt="image" src="https://github.com/user-attachments/assets/1dac47ee-7dd6-44a8-80ef-c1210d63ce21" />
+    </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="160" height="60"/>
   </a>
