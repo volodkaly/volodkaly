@@ -19,9 +19,6 @@
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="160" height="60"/>
   </a>
    <br>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" width="160" height="60"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="160" height="60"/>
   </a>
