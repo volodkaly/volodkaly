@@ -6,12 +6,12 @@
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" width="160" height="60"/>
   </a>
   <a href="https://symfony.com/" target="_blank" rel="noreferrer">
-  <img width="160" height="60" alt="image" src="https://github.com/user-attachments/assets/1dac47ee-7dd6-44a8-80ef-c1210d63ce21" />
+    <img width="160" height="60" alt="image" src="https://github.com/user-attachments/assets/a85bafa5-cce0-4881-a3d0-dbbab2088d02" />
     </a>
+  <br>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="160" height="60"/>
   </a>
-   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" width="160" height="60"/>
   </a>
