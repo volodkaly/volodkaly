@@ -15,7 +15,7 @@
   </a>
 <br>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" width="160" height="60"/>
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" width="400" height="200"/>
   </a>
   <br>
 
